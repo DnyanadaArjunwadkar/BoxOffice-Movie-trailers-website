@@ -1,4 +1,4 @@
-#Udacity Full Stack NanoDegeree course
+##Udacity Full Stack NanoDegeree course
 
 **Project 1: Movie Trailer Webpage **
 
