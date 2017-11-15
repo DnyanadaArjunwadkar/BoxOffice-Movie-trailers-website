@@ -1,4 +1,5 @@
 #Udacity Full Stack NanoDegeree course
+
 **Project 1: Movie Trailer Webpage **
 
 Learning: In this project we are trying to implement OOP concepts in Python.  Running the entatinment.py file on your machine using the 
